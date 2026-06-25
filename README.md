@@ -14,7 +14,7 @@ I am a **Computer Engineering student at UNAM** and a **Backend Developer** pass
 ### Systems & Tools
 - **OS-Level Programming** (Memory management, Scheduling)
 - **Version Control** (Git, GitHub)
-- **Cloud & DevOps** (Foundations, Docker)
+- **Cloud & DevOps** (Google Foundations, Docker)
 
 ### Mobile & Frontend
 - **Swift** (iOS Native, SwiftUI)
